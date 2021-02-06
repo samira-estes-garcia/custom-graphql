@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/custom-graphql/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/custom-graphql/static/js/main.a3e8613a.chunk.js",
+    "main.js.map": "/custom-graphql/static/js/main.a3e8613a.chunk.js.map",
+    "runtime-main.js": "/custom-graphql/static/js/runtime-main.4b265f55.js",
+    "runtime-main.js.map": "/custom-graphql/static/js/runtime-main.4b265f55.js.map",
+    "static/js/2.0b64daf2.chunk.js": "/custom-graphql/static/js/2.0b64daf2.chunk.js",
+    "static/js/2.0b64daf2.chunk.js.map": "/custom-graphql/static/js/2.0b64daf2.chunk.js.map",
+    "static/js/3.1f6607b4.chunk.js": "/custom-graphql/static/js/3.1f6607b4.chunk.js",
+    "static/js/3.1f6607b4.chunk.js.map": "/custom-graphql/static/js/3.1f6607b4.chunk.js.map",
+    "index.html": "/custom-graphql/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/custom-graphql/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0b64daf2.chunk.js.LICENSE.txt": "/custom-graphql/static/js/2.0b64daf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b265f55.js",
+    "static/js/2.0b64daf2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a3e8613a.chunk.js"
+  ]
+}
